@@ -17,7 +17,7 @@
 2. Github Pages 设置
 
    ![](https://raw.githubusercontent.com/oulh/nav/main/static/images/gh-pages.jpg)
-
+点击browse all workflows,搜索hugo，使用hugo workflow
 3. Github Action 设置
    
    如果是导入的：Settings - Actions - General - Allow all actions and reusable workflows
